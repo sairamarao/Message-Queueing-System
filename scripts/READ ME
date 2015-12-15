@@ -1,0 +1,6 @@
+Code Structure:
+
+./Client
+./Middleware
+./commands
+./*.py

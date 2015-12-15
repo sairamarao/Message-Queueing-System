@@ -1,0 +1,5 @@
+Change the value of 
+		host = sprop.getProperty("MW2");
+		at src/RequestSender/SendRequest.java
+to either MW1 or MW2 or MW3 to connect to middleware machine 1 or 2 or 3
+
